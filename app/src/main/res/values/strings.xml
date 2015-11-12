@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title_activity_menu_scree">MenuScree</string>
+    <string name="title_activity_sp">sp</string>
+    <string name="collapsing_toolbar_card_desc">small</string>
+    <string name="company">Company</string>
+</resources>
